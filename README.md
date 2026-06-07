@@ -2,7 +2,7 @@
 
 Réseau social et plateforme communautaire — ECE Paris ING2 2026.
 
-Site : **https://connecthub.michkaroma.duckdns.org:49443**
+Site : **https://connecthub.romary.org**
 
 ![QRcode](qrcode.png)
 ---
